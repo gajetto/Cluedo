@@ -1,0 +1,14 @@
+Matraque
+Pêche
+Petit Salon
+h;0
+f
+r
+y;4
+Poison
+Chose
+Grand Salon
+ludo
+sab;2
+isa;3
+denis;4
